@@ -1,5 +1,6 @@
 Hand Gesture Recognition System
 This repository contains two Python scripts for hand gesture recognition using MediaPipe and OpenCV:
+ONLY WORKS WITH RIGHT HAND !!!
 
 analy_hand_gesture.py - Recognizes specific hand gestures (hello, love, like, call, OK, SOS)
 
